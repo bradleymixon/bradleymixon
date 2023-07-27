@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Technical Interview skills at [CodePath](codepath.org)**
 
-- 💬 Ask me about **robotics, basketball (Go Mavs!), or my current community outreach endeavors**
+- 💬 Ask me about **robotics, basketball (go Mavs!), or my current community outreach endeavors**
 
 - 📫 How to reach me: **mixonb@acm.org**
 
