@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [bringing opportunites in tech to the next generation](https://www.linkedin.com/posts/bradleymixon_education-acm-hackathon-activity-7063576066694524929-Yvx8?utm_source=share&utm_medium=member_desktop) 
 
-- 🌱 I’m currently learning **Technical Interview skills at [CodePath](codepath.org)**
+- 🌱 I’m currently learning **Technical Interview skills at [CodePath](https://www.codepath.org)**
 
 - 💬 Ask me about **robotics, basketball (go Mavs!), or my current community outreach endeavors**
 
